@@ -1,13 +1,11 @@
-ClassId,SignName
-1,limit_30km/h
-2,limit_50km/h
-3,limit_60km/h
-4,limit_70km/h
-5,limit_80km/h
-7,limit_110km/h
-8,limit_120km/h
-
-
+ClassId	SignName
+1	limit_30km/h
+2	limit_50km/h
+3	limit_60km/h
+4	limit_70km/h
+5	limit_80km/h
+7	limit_110km/h
+8	limit_120km/h
 
 
 
